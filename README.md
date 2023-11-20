@@ -1,3 +1,18 @@
+# Make out like a (Multi-Armed) Bandit: Improving the Odds of Fuzzer Seed Scheduling with T-Scheduler
+
+T-Scheduler provides a light-weight reinforcement learning approach based on Thompson Sampling to the seed scheduling problem in fuzzing.
+
+# Cite Us
+```
+@inproceedings{tscheduler,
+title = {Make out like a (Multi-Armed) Bandit: Improving the Odds of Fuzzer Seed Scheduling with T-Scheduler},
+author = {Simon Luo and Adrian Herrera and Paul Quirk and Michael Chase and Damith C. Ranasinghe and Salil S. Kanhere},
+booktitle = {Proceedings of The 19th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2024)},
+year = {2024}
+}
+```
+
+
 # American Fuzzy Lop plus plus (AFL++)
 
 <img align="right" src="https://raw.githubusercontent.com/AFLplusplus/Website/master/static/aflpp_bg.svg" alt="AFL++ logo" width="250" heigh="250">
